@@ -1,0 +1,43 @@
+.header{
+    display:flex;
+    justify-content: space-around;
+    color:white;
+    background-color: #1F2937;
+}
+
+.links {
+    display:flex;
+    gap: 10px;    
+}
+
+.toplinks{
+    text-decoration: none;
+    font-size: 18px;
+    color: #E5E7EB;
+}
+.box1{
+    background-color: #1F2937;
+    color:white;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    gap:50px;
+    padding: 100px;
+
+}
+.picture{
+    height: 150px;;
+    width: 400px;
+    background-color: grey;
+}
+.h1{
+    font-size: 48px;
+    font-weight: 800;
+    color: #F9FAF8;
+}
+.picture{
+    text-align: center;
+}
+.button1{
+    background-color: #3882F6;
+}
